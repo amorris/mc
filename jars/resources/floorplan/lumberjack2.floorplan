@@ -1,0 +1,61 @@
+v1 'lumberjack hut, level 2 (9x9x5)
+5 1 4
+cccccccccccccccccc
+cccccccccccccccccc
+cccccccccccccccccc
+cccccccccccccccccc
+      cccccccccccc
+      cccccccccccc
+      cccccccccccc
+      cccccccccccc
+cccccccccccccccccc
+level 0
+                  
+..uuwwww|1|2      
+..ww              
+..ww              
+..ww..            'lumberjack chest, line 5, position 6
+..ww              
+..ww              
+..uuwwwwwwww      
+                  
+level 1
+                  
+..uuww..          
+..ww              
+....              
+..ww..            
+....              
+..ww              
+..uuww....wwfp    
+                  
+level 2
+                  
+..uuwwwwww        
+..ww              
+..ww              
+..ww..            
+..ww..            
+..ww..            
+..uuwwwwwwwwfp    
+                  
+level 3
+                  
+_wwwwwwwwwww_w    
+_wwwwwwwwwww_w    
+_wwwwwwwwwww_w    
+_wwwwwwwwwww_w    
+_wwwwwwwwwww_w    
+_wwwwwwwwwww_w    
+_wwwwwwwwwww_w    
+                  
+level 4
+                  
+    _www_w        
+    _www_w        
+    _www_w        
+    _www_w        
+    _www_w        
+    _www_w        
+    _www_w        
+                  

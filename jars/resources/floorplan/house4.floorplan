@@ -1,0 +1,222 @@
+v 1'house, level 4 - Aristocrats house (12x12x16)
+6 1 5
+        cccccccc        
+          CCCC          
+    wwwwwwwwwwwwwwww    
+    wwwwwwwwwwwwwwww    
+    wwwwwwwwwwwwwwww    
+    wwwwwwwwww          
+    wwwwwwwwwwwwwwww    
+    wwwwwwww  wwwwww    
+    wwwwwwww  wwwwww    
+    wwwwwwww  wwwwww    
+                        
+                        
+level 1
+........fp....fp........
+..cccccccc|1|2cccccccc..
+..cc................cc..
+..cc............fp..cc..
+..cc............_wwwcc..
+..cc........  cccccccc..'aristocrats chest, line 6, pos 7
+..cc................cc..
+..cc........CC....CCcc..
+..ccv2oov4..CC....CCcc..
+..ccv2oov4..CC..CC..cc..
+..cccccccccccccccccccc..
+........................
+level 2
+........fp....fp........
+..ccCCggCC    CCggCCcc..
+..CC..............wwCC..
+..gg............fp_wgg..
+..gg................gg..
+..CC........  CCCCCCCC..
+..CC................CC..
+..gg................gg..
+..gg................gg..
+..CC................CC..
+..ccCCggggCCCCggggCCcc..
+........................
+level 3
+........^4cccc^2........
+..ccCCggCCCCCCCCggCCcc..
+..CC..........ww_w..CC..
+..gg............fp..gg..
+..gg................gg..
+..CC........CCCCCCCCCC..
+..CC................CC..
+..gg........_C......gg..
+..gg........_C......gg..
+..CC........_C......CC..
+..ccCCggggCCCCggggCCcc..
+........................
+level 4
+........................
+..ccCCCCCCCCCCCCCCCCcc..
+..CC........ww......CC..
+..CC........ww_wfp..CC..
+..CC........wwww....CC..
+..CC....ww..wwwwCCCCCC..
+..CC........wwwwwwwwCC..
+..CC........wwwwwwwwCC..
+..CCwwwwwwwwwwwwwwwwCC..
+..CCwwwwwwwwwwwwwwwwCC..
+..ccCCCCCCCCCCCCCCCCcc..
+........................
+level 5
+........................
+..cccccccccccccccccccc..
+..cc........fp......cc..
+..cc........fp..fp..cc..
+..cc........fp.._wwwcc..
+..cc....fp..fp..cccccc..
+..cc........fp......cc..
+..ccv3ww....fp......cc..
+..cc..fpfpfpfp......cc..
+..cc................cc..
+..cccccccccccccccccccc..
+........................
+level 6
+CCCCCCCCCCCC............
+CCwwwwwwwwccCCggggCCcc..
+CCwwwwwwwwww......wwCC..
+CCwwwwwwwwww....fp_wgg..
+CCwwwwwwwwww........gg..
+CCccwwwwwwww....CCCCCC..
+..CCv3ww............CC..
+..gg..fp............gg..
+..gg..fp............gg..
+..CC................CC..
+..ccCCggggCCCCggggCCcc..
+........................
+level 7
+fpfpfpfpfpfp............
+fp........ccCCggggCCcc..
+fp........gg..ww_w..CC..
+fp........gg....fp..gg..
+fp........gg........gg..
+fpcc..gggggg....CCCCCC..
+..CC..fp............CC..
+..gg..fp............gg..
+..gg................gg..
+..CC................CC..
+..ccCCggggCCCCggggCCcc..
+........................
+level 8
+........................
+..........ccCCCCCCCCcc..
+..........gg........CC..
+..........gg.._wfp..CC..
+..........gg..ww....CC..
+..cc..gggggg....CCCCCC..
+..CC................CC..
+..CC................CC..
+..CC................CC..
+..CC................CC..
+..ccCCCCCCCCCCCCCCCCcc..
+........................
+level 9
+........oooooooooooooooo
+........oocc..wwwwww..oo
+........ooCCww......wwoo
+........ooCCww..fp..wwoo
+ooooooooooCCww..wwwwwwoo
+ooCCCCCCCCCCww_wwwww..oo
+ooCCwwwwwwwwwwwwwwww..oo
+ooCCwwwwwwwwwwwwwwww..oo
+ooCCwwwwwwwwwwwwwwww..oo
+ooCCwwwwwwwwwwwwwwww..oo
+ooCCCCCCCCCC........ccoo
+oooooooooooooooooooooooo
+level 10
+........................
+..........oooooooooooo..
+..........oo........oo..
+..........oo....fp..oo..
+..........oo....fp..oo..
+..fpfpfpfpccCC..fpCCcc..
+..fp......CC........CC..
+..fp................CC..
+..fp................CC..
+..fp......CC........CC..
+..fpfpfpfpccCCCCCCCCcc..
+........................
+level 11
+........................
+........................
+............oooooooo....
+............oo....oo....
+............oo....oo....
+..........ccCC....CCcc..
+..........CC........CC..
+....................gg..
+....................gg..
+..........CC........CC..
+..........ccCCggggCCcc..
+........................
+level 12
+........................
+........................
+........................
+..............oooo......
+..............oooo......
+..........ccCCCCCCCCcc..
+..........CC........CC..
+..........CC........CC..
+..........CC........CC..
+..........CC........CC..
+..........ccCCCCCCCCcc..
+........................
+level 13
+........................
+........................
+........................
+........................
+........oooooooooooooooo
+........oo............oo
+........oo..wwwwwwww..oo
+........oo..wwwwwwww..oo
+........oo..wwwwwwww..oo
+........oo..wwwwwwww..oo
+........oo............oo
+........oooooooooooooooo
+level 14
+........................
+........................
+........................
+........................
+........................
+..........oooooooooooo..
+..........oo........oo..
+..........oo........oo..
+..........oo........oo..
+..........oo........oo..
+..........oooooooooooo..
+........................
+level 15
+........................
+........................
+........................
+........................
+........................
+........................
+............oooooooo....
+............oo....oo....
+............oo....oo....
+............oooooooo....
+........................
+........................
+level 16
+........................
+........................
+........................
+........................
+........................
+........................
+........................
+..............oooo......
+..............oooo......
+........................
+........................
+........................

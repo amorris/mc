@@ -1,0 +1,38 @@
+---- Minecraft Crash Report ----
+// Oh - I know what I did wrong!
+
+Time: 9/23/12 11:45 AM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException
+	at net.minecraft.src.EntityAITasks.onUpdateTasks(EntityAITasks.java:51)
+	at net.minecraft.src.EntityLiving.updateAITasks(EntityLiving.java:1646)
+	at net.minecraft.src.EntityLiving.onLivingUpdate(EntityLiving.java:1474)
+	at net.minecraft.src.EntityAgeable.onLivingUpdate(EntityAgeable.java:59)
+	at net.minecraft.src.EntityAnimal.onLivingUpdate(EntityAnimal.java:40)
+	at net.minecraft.src.EntityLiving.onUpdate(EntityLiving.java:668)
+	at net.minecraft.src.World.updateEntityWithOptionalForce(World.java:1963)
+	at net.minecraft.src.WorldServer.updateEntityWithOptionalForce(WorldServer.java:530)
+	at net.minecraft.src.World.updateEntity(World.java:1934)
+	at net.minecraft.src.World.updateEntities(World.java:1819)
+	at net.minecraft.src.WorldServer.updateEntities(WorldServer.java:429)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:621)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:555)
+	at net.minecraft.src.IntegratedServer.tick(IntegratedServer.java:121)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:464)
+	at net.minecraft.src.ThreadServerApplication.run(ThreadServerApplication.java:17)
+
+Relevant Details:
+- Minecraft Version: 1.3.2
+- Operating System: Windows 7 (amd64) version 6.1
+- Java Version: 1.7.0_07, Oracle Corporation
+- Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+- Memory: 883791360 bytes (842 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+- JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+- Is Modded: Very likely
+- Profiler Position: N/A (disabled)
+- Player Count: 0 / 8; []
+- World test Entities: 0 total; []
+- World test Players: 0 total; []
+- World test Chunk Stats: ServerChunkCache: 0 Drop: 0
+- Type: Integrated Server

@@ -1,0 +1,92 @@
+v 1 'warehouse, level 2 (10x12x10)
+5 5 6 
+                    
+                    
+                    
+                    
+      wwwwwwww      
+      wwwwwwww      
+      wwwwwwww      
+      wwwwwwww      
+                    
+                    
+                    
+                    
+level
+                    
+                    
+                    
+    cccccccccccc    
+    cc........cc    
+    cc........cc    
+    cc........cc    
+    cc......v1cc    
+    ccwwwwwwwwcc    
+    cccccccccccc    
+                    
+                    
+level 0
+                    
+                    
+                    
+    cccccccccccc    
+    cc........cc    
+    cc........cc    
+    cc........cc    
+    cc........cc    
+    ccwwwwv2..cc    
+    cccccccccccc    
+                    
+                    
+level 1
+  fp            fp  
+                    
+  ..            ..  
+    cccccccccccc    
+    cc        cc    
+    cc        cc    
+    cc        cc    
+    cc        cc    
+    ccwwv2    cc    
+    cccccccccccc    
+  ..            ..  
+                    
+level 2
+  wwwwww    wwwwww  
+  wwwwww    wwwwww  
+                    
+                    
+                    
+                    
+                    
+                    
+      v2......      
+                    
+                    
+                    
+level 3
+  fpfpfp    fpfpfp  
+  fp            fp  
+                    
+                    
+                    
+                    
+                    
+        fpfpfp      
+                    
+                    
+                    
+                    
+level 4
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+        gggg        
+                    
